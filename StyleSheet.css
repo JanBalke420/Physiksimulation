@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24.05.2017, 22:53:50
+    Author     : S.Singh
+*/
+
+.btnSphere {
+    -fx-background-image: url("buttons/objects/sphere.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-background-size: 36px;
+}
+.btnSphere:hover {
+    -fx-background-image: url("buttons/objects/sphere_hover.png");
+    -fx-background-repeat:no-repeat;
+}
+
+.btnCuboid {
+    -fx-background-image: url("buttons/objects/cuboid.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnCuboid:hover {
+    -fx-background-image: url("buttons/objects/cuboid_hover.png");
+}
+
+.btnPoly {
+    -fx-background-image: url("buttons/objects/polygon.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnPoly:hover {
+    -fx-background-image: url("buttons/objects/polygon_hover.png");
+}
+
+.btnGravityField {
+    -fx-background-image: url("buttons/objects/gravityfield.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnGravityField:hover {
+    -fx-background-image: url("buttons/objects/gravityfield_hover.png");
+}
+
+.btnForceField {
+    -fx-background-image: url("buttons/objects/forcefield.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnForceField:hover {
+    -fx-background-image: url("buttons/objects/forcefield_hover.png");
+}
+
+.btnLevels {
+    -fx-background-image: url("buttons/controls/levels.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnLevels:hover {
+    -fx-background-image: url("buttons/controls/levels_hover.png");
+}
+
+.btnSave {
+    -fx-background-image: url("buttons/controls/save.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnSave:hover {
+    -fx-background-image: url("buttons/controls/save_hover.png");
+}
+
+.btnMoveActive {
+    -fx-background-image: url("buttons/controls/move_passive.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+.btnMoveActive:hover {
+    -fx-background-image: url("buttons/controls/move_passive_hover.png");
+}
+
+.btnRotateActive {
+    -fx-background-image: url("buttons/controls/rotate_passive.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;    
+}
+.btnRotateActive:hover {
+    -fx-background-image: url("buttons/controls/rotate_passive_hover.png");
+}
+
+.btnScaleActive {
+    -fx-background-image: url("buttons/controls/scale_passive.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;    
+}
+
+.btnScaleActive:hover {
+    -fx-background-image: url("buttons/controls/scale_active_hover.png");
+}
+
+.btnPlaySim {
+    -fx-background-image: url("buttons/controls/play.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
+
+.btnPauseSimAction {
+    -fx-background-image: url("buttons/controls/pause.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 36px;
+}
